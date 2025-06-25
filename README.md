@@ -11,7 +11,7 @@ Telecom X is facing a high customer cancellation rate and needs to understand wh
 - Evaluating categorical and numerical variables
 - Creating a new metric for average daily spending
 
-## 🧰 Technologies and Libraries Used
+## 🛠️ Technologies and Libraries Used
 
 - Python 🐍
 - Pandas

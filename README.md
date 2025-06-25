@@ -1,17 +1,17 @@
-# 📉 Análise de Evasão de Clientes - Telecom X
+# 📉 Customer Churn Analysis - Telecom X
 
-Este projeto tem como objetivo analisar a evasão de clientes (churn) da empresa fictícia **Telecom X**, que oferece serviços de TV e internet. O estudo foi realizado com base em dados reais de uso dos clientes, visando identificar padrões que possam estar relacionados ao cancelamento dos serviços.
+This project aims to analyze customer churn at **Telecom X**, a fictional company that provides TV and internet services. The goal is to understand the main factors that lead customers to cancel their subscriptions by exploring patterns in the available data.
 
-## 🔍 Sobre o Projeto
+## 🔍 About the Project
 
-A empresa enfrenta um alto número de cancelamentos e precisa entender quais fatores influenciam a saída dos seus assinantes. Para isso, foi realizada uma análise exploratória com foco nos seguintes pontos:
+Telecom X is facing a high customer cancellation rate and needs to understand what drives customers away. This exploratory data analysis focuses on:
 
-- Comportamento dos clientes ao longo do tempo
-- Perfis de consumidores mais propensos ao churn
-- Análise de variáveis categóricas e numéricas
-- Criação de métricas para avaliar o gasto médio diário
+- Customer behavior over time
+- Identifying profiles with higher churn risk
+- Evaluating categorical and numerical variables
+- Creating a new metric for average daily spending
 
-## 🧰 Tecnologias e Bibliotecas Utilizadas
+## 🧰 Technologies and Libraries Used
 
 - Python 🐍
 - Pandas
